@@ -1,0 +1,11 @@
+.resources__logo-zone {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  margin: 80px auto 217px auto;
+}
+
+.resources__logo-zone:hover {
+  opacity: 0.5;
+  transition: opacity 0.5s linear;
+ }
